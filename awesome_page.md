@@ -7,7 +7,7 @@
 > This is block text
 > This is block text
 > This is block text
-> This is block text
+> This is block
 
 [https://phase0.devbootcamp.com/]
 
